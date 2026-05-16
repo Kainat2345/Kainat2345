@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi 👋, I'm Kainat
 
-<!--
-**Kainat2345/Kainat2345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 AI/ML Engineer
 
-Here are some ideas to get you started:
+Passionate about Artificial Intelligence, Machine Learning, and building smart solutions using modern technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Skills
+
+- Python
+- Machine Learning
+- Deep Learning
+- AI Model Training
+- Data Analysis
+- Neural Networks
+- Prompt Engineering
+- Git & GitHub
+- APIs & Automation
+
+---
+
+## 🔧 Currently Learning
+
+- Generative AI
+- Large Language Models (LLMs)
+- Computer Vision
+- NLP (Natural Language Processing)
+- MLOps
+
+---
+
+## 📌 Goals
+
+- Build real-world AI applications
+- Contribute to open-source AI projects
+- Improve ML deployment skills
+- Become an advanced AI Engineer
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/Kainat2345
+
+---
+
+⭐ Always learning and exploring new AI technologies.
