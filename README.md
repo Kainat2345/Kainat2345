@@ -45,4 +45,18 @@ Passionate about Artificial Intelligence, Machine Learning, and building smart s
 
 ---
 
+# 📌 Featured Projects
+
+
+## 🎗️ Cancer Prediction ML Model
+Machine learning model for cancer prediction with Streamlit deployment.
+
+## 🌍 Urdu to English Translation Model
+Seq2Seq NLP translation model using deep learning.
+
+## 🎤 Voice AI Chatbot
+Speech-enabled AI chatbot with voice interaction support.
+
+---
+
 ⭐ Always learning and exploring new AI technologies.
