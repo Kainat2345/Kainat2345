@@ -42,7 +42,7 @@ Passionate about Artificial Intelligence, Machine Learning, and building smart s
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/Kainat2345
-
+- linkedin: https://www.linkedin.com/in/kainat-bashir-465576233
 ---
 
 # 📌 Featured Projects
